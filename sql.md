@@ -1,6 +1,6 @@
 **Time blind injection type SQL injection exists in the Anmei Digital Hotel broadband operation system**
 
-**Official website:   **[**http://www.amttgroup.com/**](http://www.amttgroup.com/)
+**Official website: **    [**http://www.amttgroup.com/**](http://www.amttgroup.com/)
 **Function point: At the editing interface of the language configuration page language. php**
 **Route: ip:port/language.php**
 **The injection parameter: Type**
