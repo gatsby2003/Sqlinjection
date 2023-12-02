@@ -2,6 +2,8 @@
 
 **Official website: http://www.amttgroup.com/**
 
+**Affected product version: V1.0**
+
 **Function point: At the editing interface of the language configuration page language. php**
 
 **Route: ip:port/language.php**
